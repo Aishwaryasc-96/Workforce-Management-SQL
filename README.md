@@ -29,24 +29,8 @@ Key Tables:
 
 
 ## ANALYSIS QUESTIONS
+<img width="1219" height="680" alt="Screenshot 2025-09-23 085202" src="https://github.com/user-attachments/assets/4e2d7a72-698e-469b-912f-104b7faf848f" />
 
-![Uploading Screenshot 2025-09-23 085202.png…]()
-
-![Uploading Screenshot 2025-09-23 085231.png…]()
-
-![Uploading Screenshot 2025-09-23 085251.png…]()
-
-![Uploading Screenshot 2025-09-23 085306.png…]()
-
-![Uploading Screenshot 2025-09-23 085321.png…]()
-
-![Uploading Screenshot 2025-09-23 085336.png…]()
-
-![Uploading Screenshot 2025-09-23 085351.png…]()
-
-![Uploading Screenshot 2025-09-23 085406.png…]()
-
-![Uploading Screenshot 2025-09-23 085422.png…]()
 
 
 ## FINAL BUSINESS INSIGHTS & RECOMMENDATIONS
