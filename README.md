@@ -2,7 +2,7 @@
 # WORKFORCE MANAGEMENT INSIGHTS
 ## PROJECT OVERVIEW
 
-This presentation gives an overview of the Employee Management System SQL project. 
+This Project gives an overview of the Employee Management System SQL project. 
 This project is designed to make handling employee data easier and more organized. 
 Key queries are shown with simple explanations to make data management easy to understand. 
 The focus is on insights into employee data, payroll, salary, bonus, department analysis, roles, and leave management.
